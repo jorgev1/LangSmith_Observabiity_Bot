@@ -1,0 +1,16 @@
+[
+  {"id": "refunds", "title": "Refund policy", "text": "Annual plans can be refunded within 30 days of purchase. Monthly plans are not refundable, but you can cancel anytime and keep access until the end of the billing period."},
+  {"id": "invoices", "title": "Download invoices", "text": "Invoices are available as PDFs under Settings > Billing > Invoice History. Admins can add a billing email so invoices are copied to finance."},
+  {"id": "plan-change", "title": "Upgrade or downgrade your plan", "text": "Go to Settings > Billing > Change plan. Upgrades take effect immediately and are prorated. Downgrades take effect at the next renewal."},
+  {"id": "failed-payments", "title": "Failed payments", "text": "If a card payment fails, we retry 3 times over 7 days. Update your card under Settings > Billing > Payment method to avoid suspension."},
+  {"id": "reset-password", "title": "Reset your password", "text": "Click 'Forgot password' on the login page. A reset link is emailed to you and expires after 1 hour. SSO users must reset through their identity provider."},
+  {"id": "two-factor", "title": "Two-factor authentication", "text": "Enable 2FA under Settings > Security using an authenticator app. Save the 10 backup codes. If you lose both your device and your codes, an account admin must reset 2FA for you."},
+  {"id": "invite-teammates", "title": "Invite teammates", "text": "Admins can invite up to 50 users on the Team plan under Settings > Members. Invites expire after 7 days."},
+  {"id": "delete-account", "title": "Delete your account", "text": "Only the account owner can delete an account, under Settings > Account > Delete. Data is permanently removed after 30 days."},
+  {"id": "rate-limits", "title": "API rate limits", "text": "The API allows 100 requests per minute per key on the Team plan and 1,000 on Enterprise. Exceeding the limit returns HTTP 429. Retry using the Retry-After header."},
+  {"id": "api-keys", "title": "Rotate API keys", "text": "Create and revoke API keys under Settings > Developers. Revoked keys stop working immediately. We recommend rotating keys every 90 days."},
+  {"id": "status", "title": "Service status", "text": "Live status and incident history are at status.acme.example. Subscribe there for email or SMS updates."},
+  {"id": "data-export", "title": "Export your data", "text": "Owners can export all workspace data as CSV or JSON under Settings > Account > Export. Large exports are emailed as a download link within 24 hours."},
+  {"id": "sla", "title": "Uptime SLA", "text": "Enterprise plans include a 99.9% monthly uptime SLA with service credits. Team plans do not include an SLA."},
+  {"id": "browsers", "title": "Supported browsers", "text": "We support the latest two versions of Chrome, Firefox, Safari, and Edge. Internet Explorer is not supported."}
+]

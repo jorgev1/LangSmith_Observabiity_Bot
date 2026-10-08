@@ -1,0 +1,5 @@
+anthropic>=0.40,<1
+langsmith>=0.2
+scikit-learn>=1.4
+python-dotenv>=1.0
+streamlit>=1.40
